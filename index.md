@@ -18,7 +18,7 @@
 
 * World
 * Characters
-* [Magic](Notas-Worldbuilding/Magic)
+* [Magic](Magic)
 * Creatures
 * Ideas
 * [Resources](Notas-Worldbuilding/Resources)
